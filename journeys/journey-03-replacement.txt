@@ -1,0 +1,3 @@
+LIGOFLOW-QA3-20260922-JOURNEY-03
+This replacement implementation is the reviewed, green, mergeable delivery.
+Only this merged PR may satisfy completion governance.
