@@ -1,0 +1,3 @@
+LIGOFLOW-QA3-20260922-JOURNEY-03
+This change represents the first implementation that product prematurely called done.
+It will be closed without merge and must never satisfy completion governance.
