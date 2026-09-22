@@ -1,0 +1,7 @@
+# LD-46: staging login rate-limit configuration
+login_requests:
+  window_seconds: 60
+  sustained_requests: 120
+  burst_requests: 30
+  backend: redis
+
