@@ -1,0 +1,2 @@
+LIGOFLOW-QA3-20260922-JOURNEY-01
+Clean feature-delivery happy path from Slack and Jira through reviewed green GitHub delivery.
